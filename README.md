@@ -2,7 +2,7 @@
   <a href="#portugueseVersion">🇧🇷 Read in Portuguese</a>
 </p>
 
-<h3 align="center">Hi there 👋, I'm Marcus Malek</h3>
+<h3 align="center">Hi there, I'm Marcus Malek 👋</h3>
 <p align="center">
   🇧🇷 A curious mind from Brazil | 💻 Info Systems student @ UniLaSalle - RJ<br>
   🚀 Future developer in the making
@@ -46,7 +46,7 @@ _Thanks for visiting my profile! ⭐️_
 
 <br>
 
-<h3 align="center">Olá 👋, eu sou Marcus Malek</h3>
+<h3 align="center">Olá, eu sou Marcus Malek 👋</h3>
 <p align="center">
   🇧🇷 Mente curiosa do Brasil | 💻 Estudante de Sistemas de Informação na UniLaSalle - RJ<br>
   🚀 Futuro desenvolvedor em formação
