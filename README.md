@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#portugueseVersion">🇧🇷 Read in Portuguese</a>
+  <a href="#portugueseVersion">🇧🇷 Leia em português</a>
 </p>
 
 <h3 align="center">Hi there, I'm Marcus Malek 👋</h3>
@@ -42,7 +42,7 @@ _Thanks for visiting my profile! ⭐️_
 ---
 
 <details>
-<summary id="portugueseVersion">📘 🇧🇷 Versão em Português (clique para expandir)</summary>
+<summary id="portugueseVersion">📘 🇧🇷 Versão em Português</summary>
 
 <br>
 
