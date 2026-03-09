@@ -23,7 +23,7 @@
 ### 🔧 Some Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ruby,html,css,js,c,vscode,eclipse,postgres,pycharm,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,ruby,html,css,js,c,vscode,eclipse,postgres&theme=dark" />
 </p>
 
 ---
