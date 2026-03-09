@@ -28,15 +28,6 @@
 
 ---
 
-### ⏳ Future Plans
-
-- 🛠 Start contributing to open-source projects
-- 🌐 Build my personal portfolio
-- 📂 Upload class and hobby projects to GitHub
-- 💡 Keep learning and developing!
-
----
-
 _Thanks for visiting my profile! ⭐️_
 
 ---
@@ -67,17 +58,8 @@ _Thanks for visiting my profile! ⭐️_
 ### 🔧 Algumas Ferramentas e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ruby,html,css,js,nodejs,npm,c,vscode,pycharm,eclipse,postgres,figma,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,ruby,html,css,js,c,vscode,eclipse,postgres&theme=dark" />
 </p>
-
----
-
-### ⏳ Planos Futuros
-
-- 🛠 Começar a contribuir com projetos open-source
-- 🌐 Criar meu portfólio pessoal
-- 📂 Publicar projetos da faculdade e pessoais aqui no GitHub
-- 💡 Continuar aprendendo e desenvolvendo!
 
 ---
 
