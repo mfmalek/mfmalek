@@ -58,7 +58,7 @@ _Thanks for visiting my profile! ⭐️_
 ### 🔧 Algumas Ferramentas e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ruby,html,css,js,c,vscode,eclipse,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,ts,nodejs,npm,vscode,eclipse,postgres&theme=dark" />
 </p>
 
 ---
